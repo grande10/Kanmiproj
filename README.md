@@ -1,0 +1,2 @@
+# Kanmiproj
+First Django project 
